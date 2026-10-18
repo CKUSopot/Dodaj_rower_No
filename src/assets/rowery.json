@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Kros 1",
+    "price": 1220,
+    "color": "Zielony",
+    "model": "Gravel"
+  },
+  {
+    "id": 2,
+    "name": "Kros 2",
+    "price": 3420,
+    "color": "Biały",
+    "model": "miejski"
+  }
+]
